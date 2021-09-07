@@ -1,7 +1,36 @@
 # Communications strategy
+
+- category : C14, 1st
+  skill:  Imitation Learning for Simultenous Escape Routing
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
+- category : C13, 2nd
+  skill:  Sequential Policy Network-based Optimal Passive Equalizer Design for Arbitrary Channel of High Bandwidth Memory using Advantage Actor Critic 
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
+- category : C12, 2nd
+  skill:  Pin Assignment Optimization of Ball Grid Array Packages considering Signal Integrity with Graph Representation Learning
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
+- category : C11, Co
+  skill: PAM-4 based PCIe 6.0 Channel Design Optimization Method using Bayesian Optimization (BO)
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+  
+- category : C10, Co
+  skill:  Signal Integrity Analysis of High Speed Channel considering Thermal Distribution
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
+- category : C9, Co
+  skill:  Crosstalk-included PAM-4 Worst Eye Diagram Estimation Method for High-speed serial links
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
+- category : C8, Co
+  skill:  Reusable Decoupling Capacitor Placement Solver for PDN with an Arbitrary Probing Port using Deep Reinforcement Learning
+  description: <i>EPEPS</i>, 2021, accepted as oral presentation (15m)
+
 - category : C7, 1st
   skill:  Neural Language Model Enables Extremely Fast and Robust Routing on Interposer
-  description: DesignCon, 2021, accepted as oral presentation (45m)
+  description: DesignCon, 2021, accepted as oral presentation (45m),<b>Top Conference of SI/PI</b>, <b>best paper finalist*</b>
 
 - category : C6, 2nd
   skill: Deep Reinforcement Learning-based Interconnection Design for 3D X-Point Array Structure Considering Signal Integrity 
@@ -14,7 +43,6 @@
 - category : C4, Co
   skill: Deep Neural Network-based Lumped Circuit Modeling using Impedance Curve
   description: <i>EDAPS</i>, 2020, accepted as poster presentation (5m)
-
 
 - category : C3, Co
   skill: Design and Analysis of Thermal Transmission Line based Embedded Cooling Structures for High Bandwidth Memory Module and 2.5 D/3D ICs
