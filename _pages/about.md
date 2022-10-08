@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park. I also closely collaborate with  <a href="https://sungsooahn.notion.site/">Prof.Sungsoo Ahn.
+I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with  <a href="https://sungsooahn.notion.site/">Prof.Sungsoo Ahn</a>.
 
 
 My research interest is mainly focused at the intersection of these areas:
