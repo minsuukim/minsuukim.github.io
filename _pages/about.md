@@ -20,23 +20,21 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with  <a href="https://sungsooahn.notion.site/">Prof.Sungsoo Ahn</a>.
+I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with  <a href="https://sungsooahn.notion.site/">Prof. Sungsoo Ahn</a>.
 
 
-My research interest is mainly focused at the intersection of these areas:
+My research interest is mainly focused at:
 - Deep Learning
   - Deep Reinforcement Learning
   - Symmetric Learning
-  - Conditional Generation
-- Combinatorial Optimization & Design with Deep Learning
+- Combinatorial Optimization & Black-box Design
   - Travelling Salesman Problem (TSP) and Vehicle Routing Problems (VRPs)
-  - Bio Sequential Design
-  - Molecular Generation & De novo design optimization
+  - Bio & Chemical Design
   - Hardware Design Optimization
 
-Combinatorial optimization (CO) is very important, but most of the problems are NP-hard. Combinatorial (black-box) design problem is a high impact application of the CO, containing molecule generation, bio-design, and hardware design, but also has enormous search space & objective evaluation time
+Combinatorial optimization (CO) is very important, but most of the problems are NP-hard. Combinatorial (black-box) design problem is a high impact application of the CO, containing molecule generation, biochemical design, and hardware design, but also has enormous search space & objective evaluation time.
 
-I believe deep learning can become an alternative method for combinatorial optimization & design, because a deep neural network is capable of exploring massive combinatorial space, is generalizable to several tasks, and is much faster than a conventional solver. Now, the still classical method gives more efficient performance than the deep learning method; I want to contribute to making AlphaGo for combinatorial optimization & design.
+I believe deep learning can become an alternative method for combinatorial optimization & design, because a deep neural network is capable of exploring massive combinatorial space, is generalizable to several tasks, and is much faster than a conventional solver. Still, the classical method gives more efficient performance than the deep learning method; I want to contribute to making AlphaGo for combinatorial optimization & design.
 
 
 ### Education 
