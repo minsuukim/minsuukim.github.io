@@ -18,9 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi!
-
-I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>.
+Hi, I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>.
 
 I'm eager to study and investigate machine learning methods for exploring discrete, combinatorial, structured space, which has challenging applications like drug discovery, computational biology, and operations research.
 
