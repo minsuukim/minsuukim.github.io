@@ -26,10 +26,12 @@ I'm eager to study and investigate machine learning methods for exploring discre
 
 Here are my current research interests:
 - Generative Flow Network (GFlowNet)
+- Energy-based Model for Discrete Sampling
+- Markov Chain Monte Carlo
 - Neural Combinatorial Optimization
 - Machine Learning for Drug Discovery
 - Machine Learning for Computational Biology
-- Sampling and Optimization on Discrete Space
+
 
 
 ### Education 
