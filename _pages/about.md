@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Industrial Engineering / AI PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. <br/> deep learning • combinatorial optimization & design
+subtitle: Industrial Engineering / AI PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. <br/> deep learning • machine learning
 
 profile:
   align: right
