@@ -54,3 +54,7 @@ Here are my current research interests:
 - DesignCon 2022 **Best Paper Award** (as a Second author for a paper of <a href="https://www.linkedin.com/in/seonguk-choi-6077731a9/"> Seonguk Choi)
 - DesignCon 2021 **Best Paper Award** (as a First author)
 - IEEE EDAPS 2020 **Best Student Paper Award** (as a Second author for a paper of <a href="https://www.linkedin.com/in/kyungjune-son-300a9318a/">Kyungjune Son)
+
+### Academic activities
+
+- Reviewer: NeurIPS, ICML, ICLR, AISTATS, LoG
