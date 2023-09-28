@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: (*) is used to denote equal contribution. Note that the "DesignCon" is top-tiered SI/PI non-published venue.
+description: (*) is used to denote equal contribution.
 years: [2023,2022,2021]
 nav: true
 nav_order: 1
