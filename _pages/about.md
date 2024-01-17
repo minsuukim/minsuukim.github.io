@@ -57,4 +57,4 @@ Here are my current research interests:
 
 ### Academic activities
 
-- Reviewer: NeurIPS, ICML, ICLR, AISTATS, LoG
+- Reviewer: NeurIPS, ICML, ICLR, AISTATS, IJCAI, LoG
