@@ -32,8 +32,8 @@ My research applications includes:
 - Safety Alignment of Large language model (*e.g., Probabilistic Red-Teaming*)
 - Drug discovery (*e.g., de novo discovery of small molecular graphs*)
 - Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
-- Hardware design optimization (*e.g., Placement of decoupling capacitance, channel routing*)
-- Combinatorial optimization (*e.g., Vehicle routing, scheduling, graph covering*).
+- Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
+- Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
 
 ### Education 
 
