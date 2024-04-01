@@ -57,4 +57,4 @@ My research applications includes:
 ### Academic activities
 
 - Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *IJCAI*, Learning on Graphs (*LoG*)
-- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TLLNS*)
+- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)
