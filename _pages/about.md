@@ -29,7 +29,7 @@ I'm interested in following topics of new learning algorithms:
 
 
 My research applications includes:
-- Safety Alignment of Large language model (*e.g., Probabilistic Red-Teaming*)
+- Safety alignment of large language model (*e.g., Probabilistic Red-Teaming*)
 - Drug discovery (*e.g., de novo discovery of small molecular graphs*)
 - Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
 - Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
