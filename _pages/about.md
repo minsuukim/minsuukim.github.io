@@ -25,7 +25,7 @@ I'm eager to study and investigate deep learning and machine learning methods (e
 I'm interested in following topics of new learning algorithms:
 - Generative Flow Networks (GFlowNets)
 - Amortized Inference using Diffusion Model
-- Learning-based meta heuristics (e.g., evolutionary algorithm, and local search)
+- Learning-based Meta Heuristics (e.g., evolutionary algorithms, and local search)
 
 
 My research applications includes:
