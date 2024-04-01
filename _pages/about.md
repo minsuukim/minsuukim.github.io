@@ -23,10 +23,10 @@ I'm visiting <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group
 I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
 
 I'm interested in following topics of new learning algorithms:
-- Generative Flow Networks (GFlowNets)
-- Diffusion Models (e.g., discrete diffusion and diffusion GFlowNets)
-- Learning-based Meta Heuristics (e.g., evolutionary algorithms, and local search)
-- Deep Reinforcement Learning (e.g., replay training for sample efficiency of DRL)
+- GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
+- Diffusion Models (e.g., *discrete diffusion and diffusion-based GFlowNets*)
+- Learning-based Meta Heuristics (e.g., *neural evolutionary algorithms, and local search*)
+- Deep Reinforcement Learning (e.g., *replay training for sample efficient DRL*)
 
 
 My research applications includes:
