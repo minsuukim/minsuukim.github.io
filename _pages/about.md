@@ -16,23 +16,24 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-
-
 I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>.
 
-I'm visiting <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from 2023/11 to 2024/09 for collaborating GFlowNet research.
+I'm visiting <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from 2023/11 to 2024/09 for collaborating GFlowNets research.
 
 I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
 
-My research application includes **large language model (LLM) alignment** (Probabilistic RedTeaming), **drug discovery** (de novo design of small molecular graphs), **computational biology** (DNA, RNA, and 3D Antibody generation), **hardware design optimization** (Placement of decoupling capacitance, channel routing) and **combinatorial optimization** (Vehicle routing, scheduling, graph covering).
-
-Here are my current research interests:
+I'm interested in following topics of new learning algorithms:
 - Generative Flow Networks (GFlowNets)
 - Amortized Inference using Diffusion Model
 - Neural Combinatorial Optimization
 
 
+My research applications includes:
+- Safety Alignment of Large language model (*e.g., Probabilistic RedTeaming*)
+- Drug discovery (*e.g., de novo design of small molecular graphs*)
+- Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
+- Hardware design optimization (*e.g., Placement of decoupling capacitance, channel routing*)
+- Combinatorial optimization (*e.g., Vehicle routing, scheduling, graph covering*).
 
 ### Education 
 
