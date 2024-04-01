@@ -23,15 +23,14 @@ I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at 
 
 I'm visiting <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from 2023/11 to 2024/09 for collaborating GFlowNet research.
 
-I'm eager to study and investigate machine learning methods for exploring discrete, combinatorial, structured space, which has challenging applications like drug discovery, computational biology, hardware design optimization, and combinatorial optimization.
+I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
+
+My research application includes **large language model (LLM) alignment** (Probabilistic RedTeaming), **drug discovery** (de novo design of small molecular graphs), **computational biology** (DNA, RNA, and 3D Antibody generation), **hardware design optimization** (Placement of decoupling capacitance, channel routing) and **combinatorial optimization** (Vehicle routing, scheduling, graph covering).
 
 Here are my current research interests:
 - Generative Flow Networks (GFlowNets)
 - Amortized Inference using Diffusion Model
 - Neural Combinatorial Optimization
-- Machine Learning for Hardware Design Optimization
-- Machine Learning for Drug Discovery
-- Machine Learning for Computational Biology
 
 
 
