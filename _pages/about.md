@@ -26,7 +26,7 @@ I'm interested in following topics of new learning algorithms:
 - Generative Flow Networks (GFlowNets)
 - Amortized Inference using Diffusion Model
 - Learning-based Meta Heuristics (e.g., evolutionary algorithms, and local search)
-- Deep Reinforcement Learning
+- Deep Reinforcement Learning (e.g., replay training for sample efficiency of DRL)
 
 
 My research applications includes:
