@@ -16,9 +16,12 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+*Note: Starting in March 2024, I will be joining <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a post-doctoral researcher.*
+
 I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
-I am a collaborative researcher at <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2024. Starting in March 2024, I will be joining the group as a post-doctoral researcher.
+I am a collaborative researcher at <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2024. During this period, I have been fortunate to collaborate with many researchers such as <a href="https://folinoid.com/">Emmanuel Bengio</a>, <a href="https://malkin1729.github.io/">Nikolay Malkin</a>, <a href="https://seanie12.github.io/">Seanie Lee</a>, <a href="https://mj10.github.io/">Moksh Jain</a>, <a href="https://hyperpotatoneo.github.io/">Siddarth Venkatraman</a>, and <a href="https://zdhnarsil.github.io/">Dinghuai Zhang</a>, among many others.
 
 I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
 
@@ -32,8 +35,8 @@ My research applications includes:
 - Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
 - Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
 - Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
-- Finetuning Large Multimodal Model (*Finetuning Text-to-Image Model with Human Feedback*)
-- Safety alignment of large language model (*e.g., Probabilistic Red-Teaming, probabilistic RLHF*)
+- Alignment of large multimodal model (*Finetuning Text-to-Image Model with Human Feedback*)
+- Alignment of large language model (*e.g., Red-Teaming with safety tuning, RLHF, amortizing intractable inferece*)
 
 
 ### Education 
