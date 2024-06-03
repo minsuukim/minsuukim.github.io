@@ -16,26 +16,25 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I’m a Ph.D. Candidate in the Industrial and Systems Engineering department at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also closely collaborate with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>.
+I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
-I'm visiting <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from 2023/11 to 2024/09 for collaborating GFlowNets research.
+I am a collaborative researcher at <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2024. Starting in March 2024, I will be joining the group as a post-doctoral researcher.
 
 I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
 
 I'm interested in following topics of new learning algorithms:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
 - Diffusion Models (e.g., *discrete diffusion and diffusion-based GFlowNets*)
-- Learning-based Meta Heuristics (e.g., *neural evolutionary algorithms, and local search*)
 - Deep Reinforcement Learning (e.g., *replay training for sample efficient DRL*)
-
 
 My research applications includes:
 - Drug discovery (*e.g., de novo discovery of small molecular graphs*)
 - Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
-- Finetuning Large Multimodal Model (*Finetuning Text-to-Image Model with Human Feedback*)
-- Safety alignment of large language model (*e.g., Probabilistic Red-Teaming*)
 - Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
 - Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
+- Finetuning Large Multimodal Model (*Finetuning Text-to-Image Model with Human Feedback*)
+- Safety alignment of large language model (*e.g., Probabilistic Red-Teaming, probabilistic RLHF*)
+
 
 ### Education 
 
