@@ -51,7 +51,7 @@ My research applications includes:
   - **2015.Mar ~ 2020.Feb**
 
 ### Awards
-- **Google Conference Scholarship** for ICLR 2024 (as a First author of the paper "Local Search GFlowNets)
+- **Google Conference Scholarship** for ICLR 2024 (as a First author of the paper "Local Search GFlowNets")
 - **Qualcomm Innovation Fellowship Award** 2023 Korea (as a First author of the paper "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization")
 - NeurIPS 2022 **Scholar Award** (Travel Grant)
 - DesignCon 2022 **Best Paper Award** (as a Second author for a paper of <a href="https://www.linkedin.com/in/haeyeon-rachel-kim/">Haeyeon Rachel Kim)
