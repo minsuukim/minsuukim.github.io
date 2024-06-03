@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-*Note: Starting in March 2024, I will be joining <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a post-doctoral researcher.*
+*Note: Starting in March 2024, I will be joining <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a **post-doctoral researcher**.*
 
 I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
