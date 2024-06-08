@@ -19,11 +19,17 @@ social: true  # includes social icons at the bottom of the page
 
 *Note: Starting in March 2025, I will be joining <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a postdoctoral researcher.*
 
+
+
 I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
 I am working as a collaborative researcher at <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2025. During this period, I have been fortunate to collaborate with many researchers such as <a href="https://folinoid.com/">Emmanuel Bengio</a>, <a href="https://malkin1729.github.io/">Nikolay Malkin</a>, <a href="https://seanie12.github.io/">Seanie Lee</a>, <a href="https://mj10.github.io/">Moksh Jain</a>, <a href="https://hyperpotatoneo.github.io/">Siddarth Venkatraman</a>, and <a href="https://zdhnarsil.github.io/">Dinghuai Zhang</a>, among many others.
 
-I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
+I'm currently focused on advancing reasoning in deep learning and its applications across various domains, including large language models and scientific discovery. My short-term research goals involve fine-tuning large models using Bayesian posterior inference, leveraging the off-policy amortized inference capabilities of GFlowNets. For my long-term research, I'm interested in System 2 deep learning, which entails developing world models that can measure uncertainty and represent causal relationships. I believe that such world models should also capture harmful risks and enable the creation of pessimistic agents to avoid misaligned actions, thereby guarantees safety.
+
+Additionally, I have a keen interest in combinatorial optimization (CO) and NP-hard algorithmic problems. I often utilize deep learning methods to address these challenges or incorporate techniques from CO, such as local search and tree search, into deep learning. I believe that CO and NP-hard problems are closely related to reasoning in deep learning and System 2 deep learning, and I am eager to explore these connections further.
+
+
 
 I'm interested in following topics of new learning algorithms:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
