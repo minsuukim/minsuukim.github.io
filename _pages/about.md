@@ -27,12 +27,11 @@ I'm eager to study and investigate deep learning and machine learning methods (e
 
 I'm interested in following topics of new learning algorithms:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
-- Diffusion Models (e.g., *discrete diffusion and diffusion-based GFlowNets*)
+- Diffusion Models (e.g., *discrete diffusion and Boltzmann generator*)
 - Deep Reinforcement Learning (e.g., *replay training for sample efficient DRL*)
 
 My research applications includes:
-- Drug discovery (*e.g., de novo discovery of small molecular graphs*)
-- Computational biology (*e.g., DNA, RNA, and 3D antibody design*)
+- Scientific discovery (*e.g., de novo discovery of small molecular graphs*)
 - Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
 - Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
 - Alignment of large multimodal model (*Finetuning text-to-image model with human feedback*)
