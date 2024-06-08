@@ -32,11 +32,11 @@ I'm interested in following topics of new learning algorithms:
 
 My research applications includes:
 - Drug discovery (*e.g., de novo discovery of small molecular graphs*)
-- Computational biology (*e.g., DNA, RNA, and 3D Antibody design*)
+- Computational biology (*e.g., DNA, RNA, and 3D antibody design*)
 - Hardware design optimization (*e.g., Placement of decoupling capacitance, and channel routing*)
 - Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
-- Alignment of large multimodal model (*Finetuning Text-to-Image Model with Human Feedback*)
-- Alignment of large language model (*e.g., Red-Teaming with safety tuning, RLHF, amortizing intractable inferece*)
+- Alignment of large multimodal model (*Finetuning text-to-image model with human feedback*)
+- Alignment of large language model (*e.g., Red-Teaming with safety tuning, RLHF, amortizing chain-of-thought*)
 
 
 ### Education 
