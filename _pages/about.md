@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-*Note: Starting in March 2025, I will be joining <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a postdoctoral researcher.*
+*Note: Starting in March 2025, I will be joining <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a postdoctoral researcher.*
 
-I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>'s group at POSTECH since 2022.
+I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Prof. Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
-I am working as a collaborative researcher at <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2025. During this period, I have been fortunate to collaborate with many researchers such as <a href="https://folinoid.com/">Emmanuel Bengio</a>, <a href="https://malkin1729.github.io/">Nikolay Malkin</a>, <a href="https://seanie12.github.io/">Seanie Lee</a>, <a href="https://mj10.github.io/">Moksh Jain</a>, <a href="https://hyperpotatoneo.github.io/">Siddarth Venkatraman</a>, and <a href="https://zdhnarsil.github.io/">Dinghuai Zhang</a>, among many others.
+I am working as a collaborative researcher at <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2025. During this period, I have been fortunate to collaborate with many researchers such as <a href="https://folinoid.com/">Emmanuel Bengio</a>, <a href="https://malkin1729.github.io/">Nikolay Malkin</a>, <a href="https://seanie12.github.io/">Seanie Lee</a>, <a href="https://mj10.github.io/">Moksh Jain</a>, <a href="https://hyperpotatoneo.github.io/">Siddarth Venkatraman</a>, and <a href="https://zdhnarsil.github.io/">Dinghuai Zhang</a>, among many others.
 
 I'm eager to study and investigate deep learning and machine learning methods (e.g., deep reinforcement learning, generative modelling, amortized inference) for exploring discrete, combinatorial, structured space. 
 
@@ -42,10 +42,10 @@ My research applications includes:
 ### Education 
 
 - Ph.D. Candidate at KAIST IE
-  - Advisor: Prof. Jinkyoo Park
+  - Advisor: Jinkyoo Park
   - **2022.Mar ~ 2025.Feb (Expected)**
 - M.S. at KAIST EE
-  - Advisor: Prof. Joungho Kim
+  - Advisor: Joungho Kim
   - **2020.Mar ~ 2022.Feb**
 - B.S. at KAIST, Math and CS (Dual Degree)
   - **2015.Mar ~ 2020.Feb**
