@@ -29,8 +29,7 @@ I'm currently focused on advancing reasoning in deep learning and its applicatio
 
 Additionally, I have a keen interest in combinatorial optimization (CO) and NP-hard algorithmic problems. I often utilize deep learning methods to address these challenges or incorporate techniques from CO, such as local search and tree search, into deep learning. I believe that CO and NP-hard problems are closely related to reasoning in deep learning and System 2 deep learning, and I am eager to explore these connections further.
 
-I worked in the hardware system design and analysis from 2020 to 2022 during my master's degree, focusing on signal integrity and power integrity in 2.5D/3D semiconductor architectures, including high-bandwidth memory (HBM) modules. I developed effective deep learning algorithms to automate and optimize the design of hardware layouts and device placements. These experiences provided me with a deep understanding of computing systems and HBM, which are crucial for AI computing, as well as practical knowledge on using deep learning methods for hardware optimization challenges.
-
+One surprising fact about my background is that I worked in hardware system design and analysis from 2020 to 2022 during my master's degree. My focus was on signal integrity and power integrity in 2.5D/3D semiconductor architectures, including high-bandwidth memory (HBM) modules. I developed advanced deep learning algorithms to automate and optimize hardware layout design and device placement. These experiences provided me with a deep understanding of computing systems and HBM, which are crucial for AI computing, as well as practical knowledge in using deep learning methods for hardware optimization challenges.
 
 To sum up, my research methodology includes:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
