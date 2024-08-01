@@ -17,7 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-*Note: Starting in March 2025, I will be joining <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a postdoctoral researcher.*
+*Note: Starting in March 2025, I will be joining KAIST-Mila Prefrontal AI Research Center jointly hosted by <a href="https://yoshuabengio.org/">Prof. Yoshua Bengio</a>, Prof. Sungjin Ahn, and Prof. Sungsoo Ahn as a postdoctoral researcher. 
+
+
+
+I will be joining <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute as a postdoctoral researcher.*
 
 
 
