@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-*Note: Starting in March 2025, I will be joining KAIST-Mila Prefrontal AI Research Center jointly hosted by Prof. Yoshua Bengio, Prof. Sungjin Ahn, and Prof. Sungsoo Ahn as a postdoctoral researcher. I will applying GFlowNets for safe AI (with Yoshua), object centric learning (with Sungjin), and drug discovery (with Sungsoo).   
+*Note: Starting in March 2025, I will be joining <a href="https://mlml.kaist.ac.kr/pair">KAIST-Mila Prefrontal AI Research Center</a> jointly hosted by Prof. Yoshua Bengio, Prof. Sungjin Ahn, and Prof. Sungsoo Ahn as a postdoctoral researcher. I will applying GFlowNets for safe AI (with Yoshua Bengio), object centric learning (with Sungjin Ahn), and drug discovery (with Sungsoo Ahn).   
 
 I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Sungsoo Ahn</a>'s group at POSTECH since 2022.
 
