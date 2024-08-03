@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>
 profile:
   align: right
   image:
