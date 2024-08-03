@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. <a herf="https://mila.quebec/en/minsu-kim">Collaborating researcher</a> at Mila 
+subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. [Collaborating researcher](https://mila.quebec/en/minsu-kim) at Mila 
 
 profile:
   align: right
@@ -34,7 +34,7 @@ I'm a Ph.D. candidate at KAIST, advised by [Prof. Jinkyoo Park](http://silab.kai
 - [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) and his group members, such as [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
 - [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila.
 
-I have engaged in deep collaborations with researchers at Mila, physically visiting [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. Currently, I am continuing my work as a <a herf="https://mila.quebec/en/minsu-kim">Collaborating researcher</a> at Mila until February 2025. I have been fortunate to work with many researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among many others.
+I have engaged in deep collaborations with researchers at Mila, physically visiting [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. Currently, I am continuing my work as a [Collaborating researcher](https://mila.quebec/en/minsu-kim) at Mila until February 2025. I have been fortunate to work with many researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among many others.
 
 I received my master's degree from [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
 
