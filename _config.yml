@@ -110,6 +110,11 @@ blog_name: Minsu's Blog# blog_name will be displayed in your blog page
 permalink: /blog/:year/:title/
 blog_description: Research Blog for AI
 
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
+
 # Pagination
 pagination:
   enabled: true
