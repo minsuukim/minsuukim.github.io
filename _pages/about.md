@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Industrial Engineering / AI PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. <br/> deep learning • machine learning
+subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. 
 
 profile:
   align: right
@@ -17,17 +17,32 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Note: Starting in March 2025, I will be joining <a href="https://mlml.kaist.ac.kr/pair">KAIST-Mila Prefrontal AI Research Center</a> jointly hosted by Prof. Yoshua Bengio, Prof. Sungjin Ahn, and Prof. Sungsoo Ahn as a postdoctoral researcher. I will apply GFlowNets for safe AI (with Yoshua Bengio), object centric learning (with Sungjin Ahn), and drug discovery (with Sungsoo Ahn).   
+Starting in March 2025, I will be joining the [KAIST-Mila Prefrontal AI Research Center](https://mlml.kaist.ac.kr/pair) as a **postdoctoral researcher**, jointly hosted by:
 
-I’m a Ph.D. candidate at KAIST, where I am advised by <a href="http://silab.kaist.ac.kr/our-team/">Jinkyoo Park</a>. I also have been closely collaborating with <a href="https://sites.google.com/view/sungsooahn0215/home">Sungsoo Ahn</a>'s group at POSTECH since 2022.
+- [Prof. Yoshua Bengio](https://yoshuabengio.org/)
+- [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn)
+- [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home)
 
-I am working as a collaborative researcher at <a href="https://yoshuabengio.org/">Yoshua Bengio</a>'s group at the Mila - Quebec AI Institute from October 2023 to February 2025. During this period, I have been fortunate to collaborate with many researchers such as <a href="https://folinoid.com/">Emmanuel Bengio</a>, <a href="https://malkin1729.github.io/">Nikolay Malkin</a>, <a href="https://seanie12.github.io/">Seanie Lee</a>, <a href="https://mj10.github.io/">Moksh Jain</a>, <a href="https://hyperpotatoneo.github.io/">Siddarth Venkatraman</a>, and <a href="https://zdhnarsil.github.io/">Dinghuai Zhang</a>, among many others.
+This research center focuses on System 2 Deep Learning, a collaborative effort between KAIST and Mila. Our research topics include prefrontal AI, safety-guaranteed AGI, and AI for Science.
+
+---
+
+### Backgrounds
+
+I'm a Ph.D. candidate at KAIST, advised by [Jinkyoo Park](http://silab.kaist.ac.kr/our-team/). During my Ph.D., I've had the pleasure of collaborating with two esteemed external professors:
+
+- [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) and his group members, such as [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
+- [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila.
+
+I have engaged in deep collaborations with researchers at Mila, physically visiting [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. Currently, I am continuing my work as a collaborative researcher at Mila until February 2025. I have been fortunate to work with many researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among many others.
+
+I received my master's degree from [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
+
+### Research
 
 I'm currently focused on advancing reasoning in deep learning and its applications across various domains, including large language models and scientific discovery. My short-term research goals involve fine-tuning large models using Bayesian posterior inference, leveraging the off-policy amortized inference capabilities of GFlowNets. For my long-term research, I'm interested in System 2 deep learning, which entails developing world models that can measure uncertainty and represent causal relationships. I believe that such world models should also capture harmful risks and enable the creation of pessimistic agents to avoid misaligned actions, thereby guarantees safety.
 
 Additionally, I have a keen interest in combinatorial optimization (CO) and NP-hard algorithmic problems. I often utilize deep learning methods to address these challenges or incorporate techniques from CO, such as local search and tree search, into deep learning. I believe that CO and NP-hard problems are closely related to reasoning in deep learning and System 2 deep learning, and I am eager to explore these connections further.
-
-One surprising fact about my background is that I worked in hardware system design and analysis from 2020 to 2022 during my master's degree. My focus was on signal integrity and power integrity in 2.5D/3D semiconductor architectures, including high-bandwidth memory (HBM) modules. I developed advanced deep learning algorithms to automate and optimize hardware layout design and device placement. These experiences provided me with a deep understanding of computing systems and HBM, which are crucial for AI computing, as well as practical knowledge in using deep learning methods for hardware optimization challenges.
 
 To sum up, my research methodology includes:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
@@ -40,6 +55,11 @@ My research applications includes:
 - Combinatorial optimization (*e.g., Vehicle routing, scheduling, and graph covering*).
 - Alignment of large multimodal model (*Finetuning text-to-image model with human feedback*)
 - Alignment of large language model (*e.g., Red-Teaming with safety tuning, RLHF, amortizing chain-of-thought*)
+
+#### My research at master prieods. 
+
+One surprising fact about my background is that I worked in hardware system design and analysis from 2020 to 2022 during my master's degree. My focus was on signal integrity and power integrity in 2.5D/3D semiconductor architectures, including high-bandwidth memory (HBM) modules. I developed advanced deep learning algorithms to automate and optimize hardware layout design and device placement. These experiences provided me with a deep understanding of computing systems and HBM, which are crucial for AI computing, as well as practical knowledge in using deep learning methods for hardware optimization challenges.
+
 
 
 ### Education 
@@ -64,5 +84,5 @@ My research applications includes:
 
 ### Academic activities
 
-- Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *IJCAI*, Learning on Graphs (*LoG*)
+- Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*)
 - Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)
