@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. Collaborating researcher at Mila (https://mila.quebec/en/minsu-kim)
-
+subtitle: PhD student at <a href="https://ie.kaist.ac.kr/">KAIST</a>. [Collaborating researcher](https://mila.quebec/en/minsu-kim)
 profile:
   align: right
   image:
