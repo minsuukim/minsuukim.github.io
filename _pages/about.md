@@ -29,7 +29,7 @@ This research center focuses on System 2 Deep Learning, a collaborative effort b
 
 ### Backgrounds
 
-I'm a Ph.D. candidate at KAIST, advised by [Jinkyoo Park](http://silab.kaist.ac.kr/our-team/). During my Ph.D., I've had the pleasure of collaborating with two esteemed external professors:
+I'm a Ph.D. candidate at KAIST, advised by [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/). During my Ph.D., I've had the pleasure of collaborating with two esteemed external professors:
 
 - [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) and his group members, such as [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
 - [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila.
