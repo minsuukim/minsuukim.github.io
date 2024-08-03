@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Starting in March 2025, I will be joining the [KAIST-Mila Prefrontal AI Research Center](https://mlml.kaist.ac.kr/pair) as a **postdoctoral researcher**, jointly hosted by:
+Starting in March 2025, I will be joining the [KAIST-Mila Prefrontal AI Research Center](https://mlml.kaist.ac.kr/pair) as a *postdoctoral researcher*, jointly hosted by:
 
 - [Prof. Yoshua Bengio](https://yoshuabengio.org/)
 - [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn)
