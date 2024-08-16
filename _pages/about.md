@@ -30,17 +30,19 @@ This research center focuses on System 2 Deep Learning, a collaborative effort b
 
 I am a Ph.D. candidate at KAIST, under the guidance of [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/), and a [Collaborating Researcher](https://mila.quebec/en/minsu-kim) at Mila, supervised by [Prof. Yoshua Bengio](https://yoshuabengio.org/).
 
-During my Ph.D., I’ve had the privilege of collaborating with several esteemed professors and their research groups:
+During my Ph.D., I've had the privilege of collaborating with several esteemed professors and their research groups:
 
+- I have been working with [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) on generative models for scientific discovery, including our joint efforts on GFlowNets with his student, [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
 
+- I have also engaged deeply with researchers at Mila, having physically visited [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. My work continues as a [Collaborating Researcher](https://mila.quebec/en/minsu-kim) at Mila until February 2025. Throughout this period, I've been fortunate to collaborate with many talented researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among others.
 
-Before pursuing my Ph.D., I completed my master’s degree under the supervision of [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
+Before pursuing my Ph.D., I completed my master's degree under the supervision of [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
 
 ### Research statement
 
-I am focused on advancing reasoning in deep learning, particularly in large language models and scientific discovery. My short-term research aims to fine-tune large models using Bayesian posterior inference, leveraging GFlowNets' off-policy amortized inference. Long-term, I’m interested in System 2 deep learning, developing world models that measure uncertainty, represent causal relationships, and support sequential reasoning for planning. These models should also identify risks, enabling the creation of safety-guaranteed pessimistic agents.
+I am focused on advancing reasoning in deep learning, particularly in large language models and scientific discovery. My short-term research aims to fine-tune large models using Bayesian posterior inference, leveraging GFlowNets' off-policy amortized inference. Long-term, I'm interested in System 2 deep learning, developing world models that measure uncertainty, represent causal relationships, and support sequential reasoning for planning. These models should also identify risks, enabling the creation of safety-guaranteed pessimistic agents.
 
-I’m also keen on combinatorial optimization (CO) and NP-hard problems, often integrating deep learning with CO techniques like local search and tree search. I see a strong link between these areas and System 2 deep learning, particularly in combinatorial reasoning, and I’m eager to explore this further.
+I'm also keen on combinatorial optimization (CO) and NP-hard problems, often integrating deep learning with CO techniques like local search and tree search. I see a strong link between these areas and System 2 deep learning, particularly in combinatorial reasoning, and I'm eager to explore this further.
 
 #### Detailed research topics
 
