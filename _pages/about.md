@@ -28,25 +28,25 @@ This research center focuses on System 2 Deep Learning, a collaborative effort b
 
 ### Backgrounds
 
-I'm a Ph.D. candidate at KAIST, advised by [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and [Collaborating researcher](https://mila.quebec/en/minsu-kim) at Mila under supervision of [Prof. Yoshua Bengio](https://yoshuabengio.org/). 
+I am a Ph.D. candidate at KAIST, under the guidance of [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/), and a [Collaborating Researcher](https://mila.quebec/en/minsu-kim) at Mila, supervised by [Prof. Yoshua Bengio](https://yoshuabengio.org/).
 
+During my Ph.D., I’ve had the privilege of collaborating with several esteemed professors and their research groups:
 
-During my Ph.D., I've had the pleasure of collaborating with two esteemed external professors:
+- I have been working with [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) on generative models for scientific discovery, including our joint efforts on GFlowNets with his student, [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
 
-- [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) and his group members, such as [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
-- [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila.
+- I have also engaged deeply with researchers at Mila, having physically visited [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. My work continues as a [Collaborating Researcher](https://mila.quebec/en/minsu-kim) at Mila until February 2025. Throughout this period, I’ve been fortunate to collaborate with many talented researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among others.
 
-I have engaged in deep collaborations with researchers at Mila, physically visiting [Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. Currently, I am continuing my work as a [Collaborating researcher](https://mila.quebec/en/minsu-kim) at Mila until February 2025. I have been fortunate to work with many researchers, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among many others.
+Before pursuing my Ph.D., I completed my master’s degree under the supervision of [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
 
-I received my master's degree from [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
+### Research statement
 
-### Research
+I am focused on advancing reasoning in deep learning, particularly in large language models and scientific discovery. My short-term research aims to fine-tune large models using Bayesian posterior inference, leveraging GFlowNets' off-policy amortized inference. Long-term, I’m interested in System 2 deep learning, developing world models that measure uncertainty, represent causal relationships, and support sequential reasoning for planning. These models should also identify risks, enabling the creation of safety-guaranteed pessimistic agents.
 
-I'm currently focused on advancing reasoning in deep learning and its applications across various domains, including large language models and scientific discovery. My short-term research goals involve fine-tuning large models using Bayesian posterior inference, leveraging the off-policy amortized inference capabilities of GFlowNets. For my long-term research, I'm interested in System 2 deep learning, which entails developing world models that can measure uncertainty and represent causal relationships. I believe that such world models should also capture harmful risks and enable the creation of pessimistic agents to avoid misaligned actions, thereby guarantees safety.
+I’m also keen on combinatorial optimization (CO) and NP-hard problems, often integrating deep learning with CO techniques like local search and tree search. I see a strong link between these areas and System 2 deep learning, particularly in combinatorial reasoning, and I’m eager to explore this further.
 
-Additionally, I have a keen interest in combinatorial optimization (CO) and NP-hard algorithmic problems. I often utilize deep learning methods to address these challenges or incorporate techniques from CO, such as local search and tree search, into deep learning. I believe that CO and NP-hard problems are closely related to reasoning in deep learning and System 2 deep learning, and I am eager to explore these connections further.
+#### Detailed research topics
 
-To sum up, my research methodology includes:
+My research methodology includes:
 - GFlowNets (e.g., *better exploration and credit assignments for GFlowNets*)
 - Diffusion Models (e.g., *discrete diffusion and Boltzmann generator*)
 - Deep Reinforcement Learning (e.g., *replay training for sample efficient DRL*)
