@@ -87,4 +87,5 @@ One surprising fact about my background is that I worked in hardware system desi
 ### Academic activities
 
 - Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*)
-- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)
+- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*)
+
