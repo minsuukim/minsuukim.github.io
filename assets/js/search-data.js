@@ -52,8 +52,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-i-got-postdoc-offer-from-proffesor-yoshua-bengio",
+          title: 'I got postdoc offer from Proffesor Yoshua Bengio.',
+          description: "",
+          section: "News",},{id: "news-4-main-track-papers-and-6-workshop-papers-are-accepted-at-neurips-2024",
+          title: '4 main track papers and 6 workshop papers are accepted at NeurIPS 2024!...',
           description: "",
           section: "News",},{id: "news-4-papers-accepted-at-iclr-2025",
           title: '4 papers accepted at ICLR 2025!',
