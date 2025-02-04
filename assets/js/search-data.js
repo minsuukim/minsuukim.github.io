@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-distill-style-blog-post",
+        },{id: "post-llm-시대의-베이지안-머신러닝과-gflownet",
       
-        title: "a distill-style blog post",
+        title: "LLM 시대의 베이지안 머신러닝과 GFlowNet",
       
-      description: "an example of a distill-style blog post and main elements",
+      description: "How will Bayesian machine learning evolve in the era of LLMs? Discover how GFlowNet may hold the key to unlocking its full potential.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/distill/";
+          window.location.href = "/blog/2025/distill/";
         
       },
     },{id: "news-i-ve-received-an-internship-offer-from-professor-yoshua-bengio-at-mila-quebec-ai-institute",
