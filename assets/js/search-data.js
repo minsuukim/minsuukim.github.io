@@ -52,16 +52,14 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-4-papers-accepted-at-iclr-2025",
+          title: '4 papers accepted at ICLR 2025!',
           description: "",
           section: "News",},{id: "news-i-got-ph-d-degree-with-the-kaist-presidential-best-ph-d-thesis-award",
           title: 'I got Ph.D degree with the KAIST presidential best Ph.D. thesis award.',
+          description: "",
+          section: "News",},{id: "news-4-main-track-papers-and-6-workshop-papers-are-accepted-at-neurips-2024",
+          title: '4 main track papers and 6 workshop papers are accepted at NeurIPS 2024!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
