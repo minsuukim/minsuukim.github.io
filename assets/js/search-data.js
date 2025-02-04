@@ -52,7 +52,10 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-got-postdoc-offer-from-proffesor-yoshua-bengio",
+    },{id: "news-i-ve-received-an-internship-offer-from-professor-yoshua-bengio-at-mila-quebec-ai-institute",
+          title: 'I’ve received an internship offer from Professor Yoshua Bengio at Mila – Quebec...',
+          description: "",
+          section: "News",},{id: "news-i-got-postdoc-offer-from-proffesor-yoshua-bengio",
           title: 'I got postdoc offer from Proffesor Yoshua Bengio.',
           description: "",
           section: "News",},{id: "news-4-main-track-papers-and-6-workshop-papers-are-accepted-at-neurips-2024",
