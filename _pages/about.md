@@ -8,6 +8,8 @@ profile:
   align: right
   image: profile_minsu.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>At Niagara Falls with my old Korean friend from Toronto.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -93,5 +95,5 @@ One surprising fact about my background is that I worked in hardware system desi
 
 ### Academic activities
 
-- Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*), Reinforcement Learning Conference (RLC)
-- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), Reinforcement Learning Journal (RLJ)
+- Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*), Reinforcement Learning Conference (*RLC*)
+- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), Reinforcement Learning Journal (*RLJ*)
