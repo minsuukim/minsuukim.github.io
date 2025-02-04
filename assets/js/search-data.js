@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-ve-received-an-internship-offer-from-professor-yoshua-bengio-at-mila-quebec-ai-institute",
+        },{id: "post-a-distill-style-blog-post",
+      
+        title: "a distill-style blog post",
+      
+      description: "an example of a distill-style blog post and main elements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/distill/";
+        
+      },
+    },{id: "news-i-ve-received-an-internship-offer-from-professor-yoshua-bengio-at-mila-quebec-ai-institute",
           title: 'I’ve received an internship offer from Professor Yoshua Bengio at Mila – Quebec...',
           description: "",
           section: "News",},{id: "news-i-ve-received-qualcomm-innovative-fellowship-award",
