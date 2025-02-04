@@ -8,21 +8,11 @@
 "Vision":
   color: "#009f36"
   
-"NeurIPS":
+"Thesis":
+  color: "#009f36"
+
+"IEEE Conference":
   color: "#00369f"
 
-"ICML":
+"IEEE Transaction":
   color: "#00369f"
-
-"ICLR":
-  color: "#00369f"
-
-"AAAI":
-  color: "#00369f"
-
-"AISTATS":
-  color: "#00369f"
-
-"TMLR":
-  color: "#00369f"
-  
