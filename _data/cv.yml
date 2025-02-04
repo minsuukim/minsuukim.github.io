@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Minsu Kim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd April 1996
     - name: Languages
-      value: English, German
+      value: Korea, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejoen, Korea
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -31,26 +31,26 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Collaborating Postdoctoral Researcher
+      institution: Mila - Quebec AI Institute, Montreal, Canada
+      year: 2025
       description:
-        - Description 1.
+        - Superviser: Yoshua Begnio
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral Researcher
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
+      year: 2025
       description:
-        - Description 1.
+        - Supervisor: Sungsoo Ahn, Sungjin Ahn
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Intern
+      institution: Mila - Quebec AI Institute, Montreal, Canada
+      year: 2023.12 - 2024.05, 2025.01 - 2025.02
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
