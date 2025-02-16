@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Mila - Quebec AI Institute and KAIST </a>.
+subtitle: <a href='#'>Mila - Quebec AI Institute </a> and <a href='#'>KAIST </a>.
 
 profile:
   align: right
@@ -83,6 +83,7 @@ One surprising fact about my background is that I worked in hardware system desi
   - **2015.Mar ~ 2020.Feb**
 
 ### Awards
+- **KAIST Presidential Ph.D. Thesis Award**
 - **Google Conference Scholarship** for ICLR 2024 (as a First author of the paper "Local Search GFlowNets")
 - **Qualcomm Innovation Fellowship Award** 2023 Korea (as a First author of the paper "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization")
 - NeurIPS 2022 **Scholar Award** (Travel Grant)
@@ -93,5 +94,6 @@ One surprising fact about my background is that I worked in hardware system desi
 
 ### Academic activities
 
-- Conference Reviewer: *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*), Reinforcement Learning Conference (*RLC*)
-- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), Reinforcement Learning Journal (*RLJ*)
+- Reviewer (Conference): *NeurIPS*, *ICML*, *ICLR*, *AISTATS*, *AAAI*, *IJCAI*, Learning on Graphs (*LoG*)
+- Reviewer (Journal): IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*)
+- Senior Reviewer: Reinforcement Learning Conference (*RLC*), Reinforcement Learning Journal (*RLJ*)
