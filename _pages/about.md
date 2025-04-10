@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jang Yeong Sil Postdoctoral Fellow working with Mila & KAIST.
+subtitle: Jang Yeong Sil Fellow working with Mila & KAIST.
 
 profile:
   align: right
@@ -23,13 +23,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Jang Yeong Sil Postdoctoral Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**.
+I am a Jang Yeong Sil (JYS) Post-doc Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**.
 
 My research is supported by:
 
 - [KAIST-Mila Prefrontal AI Research Center](https://mlml.kaist.ac.kr/pair): A research center focused on advancing System 2 Deep Learning.
 - Mila - Quebec AI Institute (Safe AI team): Initiative dedicated to developing safe and interpretable LLMs.
-- Jang Yeong Sil Fellowship: KAIST’s prestigious fellowship awarded to early-career researchers with outstanding potential in their fields.
+- JYS Fellowship: KAIST’s prestigious fellowship awarded to early-career researchers with outstanding potential in their fields.
 
 ---
 
