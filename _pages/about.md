@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jang Yeong Sil Fellow working with Mila & KAIST.
+subtitle: Jang Yeong Sil Fellow working at Mila & KAIST.
 
 profile:
   align: right
