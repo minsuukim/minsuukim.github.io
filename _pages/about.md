@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Mila - Quebec AI Institute </a> and <a href='#'>KAIST </a>.
+subtitle: Jang Yeong Sil Postdoctoral Fellow working with Mila & KAIST.
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Jang Yeong Sil Postdoctoral Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at KAIST.
+I am a Jang Yeong Sil Postdoctoral Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**.
 
 My research is supported by:
 
