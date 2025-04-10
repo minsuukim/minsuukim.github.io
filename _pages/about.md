@@ -83,6 +83,7 @@ One surprising fact about my background is that I worked in hardware system desi
   - **2015.Mar ~ 2020.Feb**
 
 ### Awards
+- **Jang Yeong Sil Fellowship (2025)**
 - **KAIST Presidential Best Ph.D. Thesis Award**
 - **Google Conference Scholarship** for ICLR 2024 (as a First author of the paper "Local Search GFlowNets")
 - **Qualcomm Innovation Fellowship Award** 2023 Korea (as a First author of the paper "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization")
