@@ -28,7 +28,7 @@ I am a Jang Yeong Sil (JYS) Post-doc Fellow, currently working with [Prof. Yoshu
 My research is supported by:
 
 - [KAIST-Mila Prefrontal AI Research Center](https://mlml.kaist.ac.kr/pair): A research center focused on advancing System 2 Deep Learning.
-- CIFAR AI Safety Catalyst Postdoctoral Fellowship (via Prof. Yoshua Bengio)
+- Mila Safe AI Team.
 - JYS Fellowship: KAIST’s prestigious fellowship awarded to early-career researchers with outstanding potential in their fields.
 
 ---
