@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-**4 papers** accepted at ICLR 2025!
+**4 papers** are accepted at ICLR 2025!
 
 
 
