@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Resume_Minsu_0720.pdf # you can also use external links here
-description: CV up-to-date for 2025.02. 
+description: CV up-to-date for 2025.07. 
 toc:
   sidebar: left
 ---
