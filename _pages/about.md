@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a CIFAR AI Safety Post-doc Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**. I serve as an Academic Collabortor of [LawZero](https://lawzero.org/en/team), a non-profit organization focused on safe AI.
+I am a CIFAR AI Safety Post-doc Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**. I am also serving as an Academic Collabortor of [LawZero](https://lawzero.org/en/team), a non-profit organization focused on safe AI.
 
 I work on fundamental challenges in machine learning, including **exploration** in reinforcement learning, **credit assignment** in long-horizon decision making, amortized **sampling & variational inference**, and **uncertainty quantification**, with a focus on their applications to **LLM/LMM** training and inference.
 
