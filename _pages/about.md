@@ -27,7 +27,7 @@ I am a CIFAR AI Safety Post-doc Fellow, currently working with [Prof. Yoshua Ben
 
 I work on fundamental challenges in machine learning, including **exploration** in reinforcement learning, **credit assignment** in long-horizon decision making, amortized **sampling & variational inference**, and **uncertainty quantification**, with a focus on their applications to **LLM/LMM** training and inference.
 
-Beyond core ML research, I actively collaborate with domain experts across diverse fields, including industrial engineering (e.g., smart factories, transportation), hardware engineering (e.g., signal and power integrity), drug discovery (e.g., small-molecule generation and molecular dynamics), and robot learning (physical intelligence).
+Beyond core ML research, I actively collaborate with domain experts across diverse fields, including **industrial engineering** (e.g., smart factories, transportation), **hardware engineering** (e.g., signal and power integrity), **drug discovery** (e.g., small-molecule generation and molecular dynamics), and **robot learning** (physical intelligence).
 
 
 ---
