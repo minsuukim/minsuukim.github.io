@@ -23,32 +23,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a CIFAR AI Safety Post-doc Fellow, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**. I am also serving as an Academic Collaborator of [LawZero](https://lawzero.org/en/team), a non-profit organization focused on safe AI.
+I'll be joining Microsoft's [Copilot Tuning Research team](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Senior Researcher in early 2026. I will work on broad topics related to improving the Copilot agent, including reinforcement learning for large language models.
 
-I work on fundamental challenges in machine learning, including **exploration** in reinforcement learning, **credit assignment** in long-horizon decision making, amortized **sampling & variational inference**, and **uncertainty quantification**, with a focus on their applications to **LLM/LMM** training and inference.
 
-Beyond core ML research, I enjoy interdisciplinary collaborations with domain experts across diverse fields, including **industrial engineering** (e.g., smart factories, transportation), **hardware engineering** (e.g., signal and power integrity), and **drug discovery** (e.g., small-molecule generation and molecular dynamics).
+I currently **CIFAR AI Safety Post-doc Fellow**, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**. 
 
+My research interests include improving sample efficiency and credit assignment in reinforcement learning, with applications to frontier large language models and AI safety.
 
 ---
 
 
 ### Backgrounds
 
-I got a Ph.D. at KAIST, under the guidance of [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/).
+I got a Ph.D. at KAIST, under the guidance of [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) where I worked on bridging reinforcement learning and combinatorial optimization, receiving the Presidential Best Ph.D. Thesis Award.
 
-During my Ph.D., I've had the privilege of collaborating with several professors and their research groups:
+During my Ph.D., I collaborate with [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home), and conducted extended research visits to **Mila** collaborating with [Prof. Yoshua Bengio](https://yoshuabengio.org/) and his group on GFlowNet-related research.
 
-- I have been working with [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) on generative models for scientific discovery, including our joint efforts on GFlowNets with his student, [Hyosoon Jang](https://hsjang0.github.io/hsjang/).
-
-- I have also engaged deeply with researchers at Mila, having physically visited [Prof. Yoshua Bengio](https://yoshuabengio.org/)'s group from December 2023 to May 2024. Throughout this period, I've been fortunate to collaborate with many talented researchers for GFlowNets, including [Emmanuel Bengio](https://folinoid.com/), [Nikolay Malkin](https://malkin1729.github.io/), [Seanie Lee](https://seanie12.github.io/), [Moksh Jain](https://mj10.github.io/), [Siddarth Venkatraman](https://hyperpotatoneo.github.io/), and [Dinghuai Zhang](https://zdhnarsil.github.io/), among others.
-
-Before pursuing my Ph.D., I completed my master's degree under the supervision of [Prof. Joungho Kim](https://tera.kaist.ac.kr/), an expert in designing 3D ICs (e.g., HBM) for SI/PI performance.
-
-
-#### My research at master prieods. 
-
-One surprising fact about my background is that I worked in hardware system design and analysis from 2020 to 2022 during my master's degree. My focus was on signal integrity and power integrity in 2.5D/3D semiconductor architectures, including high-bandwidth memory (HBM) modules. I developed advanced deep learning algorithms to automate and optimize hardware layout design and device placement. These experiences provided me with a deep understanding of computing systems and HBM, which are crucial for AI computing, as well as practical knowledge in using deep learning methods for hardware optimization challenges.
+I completed my master's degree under the supervision of [Prof. Joungho Kim](https://tera.kaist.ac.kr/), working on signal and power integrity in 2.5D/3D semiconductor systems (including HBM) using deep learning–based optimization methods.
 
 
 
