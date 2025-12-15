@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'll be joining Microsoft's [Copilot Tuning Research team](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Senior Researcher in early 2026. I will work on broad topics related to improving the Copilot agent, including reinforcement learning for large language models.
+I'll be joining Microsoft's [Copilot Tuning Research team](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Senior Researcher in early 2026. I will work on advancing the Copilot agent through research on LLM post-training, with a focus on reinforcement learning, agentic behavior, and reliable decision-making.
 
 
 I currently **CIFAR AI Safety Post-doc Fellow**, currently working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at **Mila**, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at **KAIST**. 
