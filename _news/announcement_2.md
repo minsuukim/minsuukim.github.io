@@ -5,8 +5,7 @@ inline: true
 related_posts: false
 ---
 
-**4 papers** (Adaptive Teachers, RxnFlow, MOFFlow, and red-teaming) are accepted at ICLR 2025!
-
+**Four papers**—Adaptive Teachers, RxnFlow, MOFFlow, and Red-Teaming—were accepted to ICLR 2025!
 
 
 

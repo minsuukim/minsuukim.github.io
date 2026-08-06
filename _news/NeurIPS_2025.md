@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**4 papers** (SGDS, TBA, EGM, and ABCD) are accepted at NeurIPS 2025!
+**Four papers**—SGDS, TBA, EGM, and ABCD—were accepted to NeurIPS 2025!

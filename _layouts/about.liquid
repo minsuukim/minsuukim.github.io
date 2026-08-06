@@ -12,9 +12,46 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+    {% if page.profile.links %}
+      <nav class="header-links" aria-label="Profile links">
+        {% for link in page.profile.links %}
+          <a
+            href="{{ link.url }}"
+            class="header-link{% if link.kind == 'affiliation' %} header-affiliation{% endif %}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {% if link.icon %}
+              <i class="{{ link.icon }} header-link-icon" aria-hidden="true"></i>
+            {% endif %}
+            <span>{{ link.label }}</span>
+            {% if link.kind == 'affiliation' and page.profile.location %}
+              <span class="header-location">· {{ page.profile.location }}</span>
+            {% endif %}
+          </a>
+          {% if link.kind == 'affiliation' and page.profile.tagline %}
+            <span class="header-research-tagline">{{ page.profile.tagline }}</span>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    {% endif %}
   </header>
 
   <article>
+    {% if page.contact %}
+      <section class="top-contact" aria-labelledby="contact-heading">
+        <h3 id="contact-heading">{{ page.contact.title }}</h3>
+        <ul>
+          {% for item in page.contact.items %}
+            <li>
+              <strong>{{ item.label }}</strong>
+              {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
@@ -33,18 +70,6 @@ layout: default
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-        {% if page.profile.links %}
-          <div class="profile-contact">
-            {% for link in page.profile.links %}
-              <a href="{{ link.url }}" {% unless link.url contains 'mailto:' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
-                {% if link.icon %}
-                  <i class="{{ link.icon }} profile-contact-icon" aria-hidden="true"></i>
-                {% endif %}
-                <span>{{ link.label }}</span>
-              </a>
-            {% endfor %}
-          </div>
         {% endif %}
       </div>
     {% endif %}

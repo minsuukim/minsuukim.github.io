@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**4 main track papers** and **6 workshop papers** are accepted at NeurIPS 2024!
+**Four main-track papers** and **six workshop papers** were accepted to NeurIPS 2024!

@@ -5,12 +5,14 @@ on:
     branches:
       - master
       - main
+      - source
     paths:
       - "assets/**"
       - "**.bib"
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**/*.scss"
       - "**/*.md"
       - "**.yml"
       - "Gemfile"
@@ -19,12 +21,14 @@ on:
     branches:
       - master
       - main
+      - source
     paths:
       - "assets/**"
       - "**.bib"
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**/*.scss"
       - "**/*.md"
       - "**.yml"
       - "Gemfile"

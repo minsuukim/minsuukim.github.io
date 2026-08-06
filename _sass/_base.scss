@@ -192,6 +192,93 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+.post-header {
+  .post-title {
+    margin-bottom: 0.2rem;
+  }
+
+  .header-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem 1rem;
+    margin-top: 0.15rem;
+    margin-bottom: 1rem;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--global-text-color-light) !important;
+      font-size: 0.95rem;
+      font-weight: 500;
+
+      &:hover {
+        color: var(--global-theme-color) !important;
+        text-decoration: none;
+      }
+    }
+
+    a.header-affiliation {
+      flex-basis: 100%;
+      flex-wrap: wrap;
+      color: var(--global-text-color) !important;
+      font-size: 0.98rem;
+      font-weight: 400;
+
+      &:hover {
+        color: var(--global-theme-color) !important;
+      }
+
+      .header-location {
+        color: var(--global-text-color-light);
+        color: color-mix(in srgb, var(--global-text-color-light) 85%, var(--global-text-color));
+        font-size: 0.82rem;
+      }
+    }
+
+    .header-research-tagline {
+      flex-basis: 100%;
+      margin-top: -0.25rem;
+      color: var(--global-theme-color);
+      color: color-mix(in srgb, var(--global-theme-color) 70%, var(--global-text-color));
+      font-size: 0.9rem;
+      line-height: 1.35;
+    }
+
+    .header-link-icon {
+      width: 1rem;
+      text-align: center;
+    }
+  }
+}
+
+.top-contact {
+  margin-bottom: 1.5rem;
+  padding: 0.9rem 1rem;
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0.25rem;
+  background-color: var(--global-card-bg-color);
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.65rem;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+
+  li + li {
+    margin-top: 0.45rem;
+  }
+
+  p {
+    display: inline;
+    margin: 0;
+  }
+}
+
 .profile {
   width: 48%;
   max-width: 160px;
@@ -207,46 +294,6 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  .profile-contact {
-    margin-top: 0.75rem;
-    font-size: 1rem;
-    line-height: 1.55;
-    text-align: right;
-
-    a {
-      display: inline-flex;
-      align-items: center;
-      justify-content: flex-end;
-      gap: 0.48rem;
-      margin-left: auto;
-      color: var(--global-text-color) !important;
-      font-weight: 500;
-      opacity: 0.92;
-      white-space: nowrap;
-
-      &:hover {
-        color: var(--global-text-color) !important;
-        opacity: 1;
-        text-decoration-thickness: 0.08em;
-
-        .profile-contact-icon {
-          color: var(--global-text-color) !important;
-        }
-      }
-
-      span {
-        color: inherit !important;
-      }
-    }
-
-    .profile-contact-icon {
-      flex: 0 0 1.15rem;
-      width: 1.15rem;
-      color: var(--global-text-color) !important;
-      font-size: 1.05rem;
-      text-align: center;
-    }
-  }
 }
 
 .profile.float-right {

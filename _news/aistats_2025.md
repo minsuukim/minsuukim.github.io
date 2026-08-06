@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper (GFACS) is accepted at AISTATS 2025.
+Our paper, GFACS, was accepted to AISTATS 2025.

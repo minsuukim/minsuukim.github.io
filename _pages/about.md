@@ -8,16 +8,34 @@ profile:
   align: right
   image: profile_minsu.jpg
   image_circular: false # crops the image to make it circular
+  tagline: LLM Post-Training · Reinforcement Learning at Scale
+  location: Redmond, WA, USA
   links:
+    - label: Senior Research Scientist @ Microsoft
+      url: https://www.microsoft.com/en-us/research/group/copilot-tuning-research/
+      kind: affiliation
     - label: Google Scholar
       icon: ai ai-google-scholar
       url: https://scholar.google.com/citations?hl=en&user=VvyLuhAAAAAJ&view_op=list_works&sortby=pubdate
-    - label: Email
-      icon: fa-solid fa-envelope
-      url: mailto:minsukim.ai@gmail.com
+    - label: LinkedIn
+      icon: fa-brands fa-linkedin
+      url: https://www.linkedin.com/in/minsu-kim-5693061a5/
     - label: X (@minsuuukim)
       icon: fa-brands fa-x-twitter
       url: https://x.com/minsuuukim
+
+contact:
+  title: Collaboration & Contact
+  items:
+    - label: Actively looking for collaborators →
+      text: >
+        For non-commercial academic research on **LLM agents for chip design**, please reach out at
+        `minsukim.ai at gmail dot com`. I pursue this research independently and would participate in a personal
+        academic capacity, rather than on behalf of my employer.
+    - label: Professional contact →
+      text: >
+        For seminars, workshops, or other engagements related to my professional role, please reach me at
+        `minsukim at microsoft dot com`.
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,15 +47,23 @@ announcements:
 
 ---
 
-I am an incoming Senior Researcher at [Microsoft Frontier Tuning](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/), where I will work on reinforcement learning (RL) for LLM agents. Before that, I was a postdoctoral fellow working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila, and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at KAIST.
+At [Microsoft Frontier Tuning](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/), I work on reinforcement learning methods for post-training frontier language models in noisy environments and on long-horizon tasks. Previously, I was a postdoctoral fellow working with [Prof. Yoshua Bengio](https://yoshuabengio.org/) at Mila and [Prof. Sungjin Ahn](https://mlml.kaist.ac.kr/sungjinahn) and [Prof. Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home) at KAIST, focusing on structured reasoning for trustworthy LLMs.
 
-I received my Ph.D. from KAIST in [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)'s group, working on RL for combinatorial optimization. Previously, I received my M.S. from KAIST in [Prof. Joungho Kim](https://tera.kaist.ac.kr/)'s group, working on learning-based hardware design optimization. I obtained my B.S. in Mathematics and Computer Science from KAIST.
+I received my Ph.D. from KAIST in [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)'s group, studying reinforcement learning for combinatorial optimization and its applications to LLMs. During my M.S. at KAIST in [Prof. Joungho Kim](https://tera.kaist.ac.kr/)'s group, I studied learning-based physical-layout optimization for semiconductor systems. I received my B.S. in Mathematics and Computer Science from KAIST.
 
-### Research Interests
+### Independent Research Interest
 
-- **Combinatorial optimization**: NP-hard problems and black-box optimization
-- **Reinforcement learning**: long-horizon credit assignment and sample-efficient exploration
-- **AI4Science**: molecular sampling/optimization and biological sequence design
+Separately from my professional role, I am independently exploring how **LLM agents and reinforcement learning can optimize computing systems and semiconductor physical design**—an application area connected to my M.S. research. I am particularly interested in **system optimization, floorplanning, routing, and chip placement**.
+
+- **From code to hardware:** The success of coding agents such as Claude Code and Codex shows that LLMs can reason about and optimize complex software, often written in Python. Beneath that software layer are hardware description languages such as Verilog, followed by the physical implementation of circuits. I see these lower layers of the computing stack as a natural next frontier for LLM agents and reinforcement learning.
+- **Long-term vision:** I am interested in a self-improving loop between **LLMs for chips** and **chips for LLMs**: agents help design more capable and efficient hardware, and that hardware, in turn, enables more capable models and agents.
+
+### Research Themes in Industry
+
+In my professional research, I focus on practical methods that help LLMs tackle reasoning and agentic tasks that current models cannot yet handle reliably. I am particularly interested in settings without readily verifiable rewards—unlike many math and coding tasks—or where success depends on decisions over much longer horizons. The following themes summarize my goals and methods:
+
+- **User-Aligned Reasoning Models & Agents**: multi-turn reasoning grounded in user intent, multi-agent orchestration, and reward modeling
+- **Reinforcement Learning at Scale**: long-horizon credit assignment, structured exploration, replay-based training, and sample-efficient learning for LLM post-training
 
 ### Academic Service
 

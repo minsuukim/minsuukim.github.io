@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got Ph.D degree with the **KAIST presidential best Ph.D. thesis award**. 
+I received my Ph.D. from KAIST with the **KAIST Presidential Best Ph.D. Thesis Award**.
