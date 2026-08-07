@@ -252,29 +252,16 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.top-contact {
-  margin-bottom: 1.5rem;
-  padding: 0.9rem 1rem;
-  border-left: 3px solid var(--global-theme-color);
-  border-radius: 0.25rem;
-  background-color: var(--global-card-bg-color);
-
-  h3 {
-    margin-top: 0;
-    margin-bottom: 0.65rem;
-  }
-
-  ul {
-    margin: 0;
-    padding-left: 1.2rem;
-  }
-
-  li + li {
-    margin-top: 0.45rem;
-  }
+.research-contact {
+  margin: 1rem 0 1.6rem;
+  padding: 0.65rem 0.8rem;
+  border-left: 2px solid var(--global-theme-color);
+  border-radius: 0.2rem;
+  background-color: color-mix(in srgb, var(--global-theme-color) 4%, var(--global-card-bg-color));
+  font-size: 0.94rem;
+  line-height: 1.55;
 
   p {
-    display: inline;
     margin: 0;
   }
 }

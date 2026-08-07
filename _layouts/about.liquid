@@ -38,20 +38,6 @@ layout: default
   </header>
 
   <article>
-    {% if page.contact %}
-      <section class="top-contact" aria-labelledby="contact-heading">
-        <h3 id="contact-heading">{{ page.contact.title }}</h3>
-        <ul>
-          {% for item in page.contact.items %}
-            <li>
-              <strong>{{ item.label }}</strong>
-              {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}
-            </li>
-          {% endfor %}
-        </ul>
-      </section>
-    {% endif %}
-
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}

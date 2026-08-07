@@ -24,19 +24,6 @@ profile:
       icon: fa-brands fa-x-twitter
       url: https://x.com/minsuuukim
 
-contact:
-  title: Collaboration & Contact
-  items:
-    - label: Actively looking for collaborators →
-      text: >
-        For non-commercial academic research on **LLM agents for chip design**, please reach out at
-        `minsukim.ai at gmail dot com`. I pursue this research independently and would participate in a personal
-        academic capacity, rather than on behalf of my employer.
-    - label: Professional contact →
-      text: >
-        For seminars, workshops, or other engagements related to my professional role, please reach me at
-        `minsukim at microsoft dot com`.
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -51,6 +38,17 @@ At [Microsoft Frontier Tuning](https://www.microsoft.com/en-us/research/group/co
 
 I received my Ph.D. from KAIST in [Prof. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)'s group, studying reinforcement learning for combinatorial optimization and its applications to LLMs. During my M.S. at KAIST in [Prof. Joungho Kim](https://tera.kaist.ac.kr/)'s group, I studied learning-based physical-layout optimization for semiconductor systems. I received my B.S. in Mathematics and Computer Science from KAIST.
 
+### Research Themes in Industry
+
+In my professional research, I focus on practical methods that help LLMs tackle reasoning and agentic tasks that current models cannot yet handle reliably. I am particularly interested in settings without readily verifiable rewards—unlike many math and coding tasks—or where success depends on decisions over much longer horizons. The following themes summarize my goals and methods:
+
+- **User-Aligned Reasoning Models & Agents**: multi-turn reasoning grounded in user intent, multi-agent orchestration, and reward modeling
+- **Reinforcement Learning at Scale**: long-horizon credit assignment, structured exploration, replay-based training, and sample-efficient learning for LLM post-training
+
+<aside class="research-contact">
+  <p><strong>Professional inquiries.</strong> For seminar and workshop invitations or other official inquiries related to my professional role, please reach me at <code>minsukim at microsoft dot com</code>.</p>
+</aside>
+
 ### Independent Research Interest
 
 Separately from my professional role, I am independently exploring how **LLM agents and reinforcement learning can optimize computing systems and semiconductor physical design**—an application area connected to my M.S. research. I am particularly interested in **system optimization, floorplanning, routing, and chip placement**.
@@ -58,12 +56,9 @@ Separately from my professional role, I am independently exploring how **LLM age
 - **From code to hardware:** The success of coding agents such as Claude Code and Codex shows that LLMs can reason about and optimize complex software, often written in Python. Beneath that software layer are hardware description languages such as Verilog, followed by the physical implementation of circuits. I see these lower layers of the computing stack as a natural next frontier for LLM agents and reinforcement learning.
 - **Long-term vision:** I am interested in a self-improving loop between **LLMs for chips** and **chips for LLMs**: agents help design more capable and efficient hardware, and that hardware, in turn, enables more capable models and agents.
 
-### Research Themes in Industry
-
-In my professional research, I focus on practical methods that help LLMs tackle reasoning and agentic tasks that current models cannot yet handle reliably. I am particularly interested in settings without readily verifiable rewards—unlike many math and coding tasks—or where success depends on decisions over much longer horizons. The following themes summarize my goals and methods:
-
-- **User-Aligned Reasoning Models & Agents**: multi-turn reasoning grounded in user intent, multi-agent orchestration, and reward modeling
-- **Reinforcement Learning at Scale**: long-horizon credit assignment, structured exploration, replay-based training, and sample-efficient learning for LLM post-training
+<aside class="research-contact">
+  <p><strong>Independent research discussions.</strong> For informal research discussions or early-stage, non-commercial academic collaboration—especially on the independent research topics above—please reach me at <code>minsukim.ai at gmail dot com</code>. I would participate in a personal capacity, independently of my employer.</p>
+</aside>
 
 ### Academic Service
 
