@@ -31,7 +31,7 @@ academic_service:
     details: TNNLS (2025–2026), TPAMI (2025), TMLR (2025)
 ---
 
-I'm a Senior Research Scientist at [Microsoft Frontier Tuning](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) in Washington. My work aims to turn general-purpose frontier LLMs into domain-specialized agents (e.g., legal agents) through reinforcement learning. I train these agents to search unfamiliar corpora through long sequences of tool calls. The main technical challenges are expanding knowledge coverage for exploration, credit assignment, and policy staleness as the learner updates asynchronously during these long rollouts.
+I'm a Senior Research Scientist at [Microsoft Frontier Tuning](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) in Washington. I use reinforcement learning to turn general-purpose frontier LLMs into specialized agents for enterprise workflows. I train these agents to search unfamiliar corpora through long sequences of tool calls. The main technical challenges are expanding knowledge coverage for exploration, credit assignment, and policy staleness as the learner updates asynchronously during these long rollouts.
 
 Outside my work, I've become interested in scalable oversight. I see poor judge calibration and reward hacking as major obstacles to progress in both RL and long-term AI safety.
 
