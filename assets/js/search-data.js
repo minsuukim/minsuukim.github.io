@@ -4,14 +4,14 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and navigation menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
-          description: "(*) denote for equal contribution.",
+          title: "Publications",
+          description: "An asterisk (*) denotes equal contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
