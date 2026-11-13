@@ -1,94 +1,62 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-    {% if page.profile.links %}
-      <nav class="header-links" aria-label="Profile links">
-        {% for link in page.profile.links %}
-          <a
-            href="{{ link.url }}"
-            class="header-link{% if link.kind == 'affiliation' %} header-affiliation{% endif %}"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            {% if link.icon %}
-              <i class="{{ link.icon }} header-link-icon" aria-hidden="true"></i>
-            {% endif %}
-            <span>{{ link.label }}</span>
-            {% if link.kind == 'affiliation' and page.profile.location %}
-              <span class="header-location">· {{ page.profile.location }}</span>
-            {% endif %}
-          </a>
-          {% if link.kind == 'affiliation' and page.profile.tagline %}
-            <span class="header-research-tagline">{{ page.profile.tagline }}</span>
-          {% endif %}
-        {% endfor %}
-      </nav>
+<article class="academic-home">
+  <header class="academic-masthead">
+    <div class="academic-identity">
+      <h1>{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</h1>
+    </div>
+
+    {% if page.profile.image %}
+      <div class="academic-portrait">
+        {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+        {% assign profile_image_alt = site.first_name | append: ' ' | append: site.last_name %}
+        {% include figure.liquid loading="eager" path=profile_image_path class="academic-portrait-image" sizes="(max-width: 575px) 96px, 180px" alt=profile_image_alt cache_bust=true %}
+      </div>
     {% endif %}
+
+    <nav class="academic-social" aria-label="Academic and social profiles">
+      {% for link in page.profile.links %}
+        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ link.label }}" title="{{ link.label }}">
+          <i class="{{ link.icon }}" aria-hidden="true"></i>
+          <span>{{ link.label }}</span>
+        </a>
+      {% endfor %}
+    </nav>
+
+    <div class="academic-bio">{{ content }}</div>
   </header>
 
-  <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) 180px, (min-width: 576px) 24vw, 48vw{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
+  {% if page.selected_papers %}
+    <section class="academic-section academic-papers" aria-labelledby="papers-heading">
+      <div class="academic-section-heading">
+        <h2 id="papers-heading">Selected publications</h2>
+        <a class="section-more" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a>
       </div>
-    {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
-
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-      </h2>
       {% include selected_papers.liquid %}
-    {% endif %}
+    </section>
+  {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
+  {% if page.announcements.enabled %}
+    <section class="academic-section academic-news" aria-labelledby="news-heading">
+      <div class="academic-section-heading">
+        <h2 id="news-heading">News</h2>
+        <a class="section-more" href="{{ '/news/' | relative_url }}">Archive <span aria-hidden="true">→</span></a>
       </div>
-    {% endif %}
+      {% include news.liquid limit=true %}
+    </section>
+  {% endif %}
 
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
-  </article>
-</div>
+  {% if page.academic_service %}
+    <section class="academic-section academic-service" aria-labelledby="service-heading">
+      <div class="academic-section-heading">
+        <h2 id="service-heading">Academic service</h2>
+      </div>
+      <dl>
+        {% for service in page.academic_service %}
+          <div><dt>{{ service.role }}</dt><dd>{{ service.details }}</dd></div>
+        {% endfor %}
+      </dl>
+    </section>
+  {% endif %}
+</article>

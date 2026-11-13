@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Minsu Kim's academic homepage for research, publications, news, and writing.
 footer_text: >
-  © Minsu Kim. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: reinforcement learning, machine learning, GFlowNet, LLM post-training, AI safety, AI4Science
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg # the favicon image in /assets/img/
@@ -47,7 +47,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true

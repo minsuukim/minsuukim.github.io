@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: (*) denote for equal contribution.
+title: Publications
+description: An asterisk (*) denotes equal contribution.
 nav: true
 nav_order: 2
 ---
